@@ -12,8 +12,11 @@ This project is developed as part of **Python Developer Internship – Task 4**.
 📌 Project Objective
 
 ✔ Build a REST API using Flask
+
 ✔ Perform **GET, POST, PUT, DELETE** operations
+
 ✔ Test API with Thunder Client / Postman
+
 ✔ Understand API fundamentals & JSON response handling
 
 ---
